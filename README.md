@@ -1,5 +1,6 @@
 # Education_Quality_Tableau_Dashboard
 Tableau-based analysis of regional disparities and learning modality impacts on quality education participation across different education levels during 2023–2024, aligned with SDG 4.
+> **IBM SkillsBuild Winter Certification Program 2025 - Data Analytics & Business Intelligence Lab : Explore, Analyze & Build Real-World Solutions**
 # 📊 Analyzing Regional Disparities and Learning Modality Impacts on Quality Education Participation (2023–2024)
 
 ## 📌 Project Overview
