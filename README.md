@@ -1,6 +1,5 @@
 # Education_Quality_Tableau_Dashboard
-An interactive Tableau dashboard analyzing regional disparities in student participation, year-wise enrollment, learning mode preferences, and course trends across East, West, North, and South regions during 2023–2024, aligned with UN SDG 4: Quality Education.
-
+Tableau-based analysis of regional disparities and learning modality impacts on quality education participation across different education levels during 2023–2024, aligned with SDG 4.
 # 📊 Analyzing Regional Disparities and Learning Modality Impacts on Quality Education Participation (2023–2024)
 
 ## 📌 Project Overview
