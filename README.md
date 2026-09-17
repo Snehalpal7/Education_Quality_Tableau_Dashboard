@@ -317,3 +317,6 @@ Academic Session: 2025–2026
 ## ⭐ Project
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
+---
+
+© 2026 Snehal Pal. All Rights Reserved.
